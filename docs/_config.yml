@@ -1,0 +1,9 @@
+# Metadata for the site header and footer
+title: OCP CI Onboarding
+description: Documentation for OCP CI Onboarding written by CSPI-QE
+
+# Set the production website URL when previewing
+baseurl: "/cspi-qe.github.io"
+
+# Markdown parser and theme settings
+theme: minima
